@@ -95,6 +95,37 @@ HTML的写法要比mardown复杂很多，它同样需要在要设置格式的文
 `我是带链接的脚本注释[^2]`  
 显示如下：  
 我是带链接的脚本注释[^2]
+
+## 字体颜色
+Markdown不支持设置字体颜色，要想实现颜色设置，需要借助HTML字体语法的支持，HTML字体标签为`<font></font>`，要设置字体颜色，只用将文本放入两个font标签中间，同时设置font标签的color属性即可。
+
+写法如下：  
+`<font color="red">我是文本</font>`  
+上边的这个实例是将“我是文本”显示为红色。
+
+显示为：  
+<font color="red">我是文本</font>
+
+HTML支持16种颜色以英文单词表示，它们是：
+
++ aqua <font color="aqua">浅绿色</font>
++ red <font color="red">红色</font>
++ yellow <font color="yellow">黄色</font>
++ blue <font color="blue">蓝色</font>
++ green <font color="green">绿色</font>
++ purple <font color="purple">紫色</font>
++ black <font color="black">黑色</font>
++ fuchsia <font color="fuchsia">紫红色</font>
++ gray <font color="gray">灰色</font>
++ lime <font color="lime">绿黄色</font>
++ maroon <font color="maroon">褐红色</font>
++ navy <font color="navy">深蓝色</font>
++ olive <font color="olive">橄榄色</font>
++ silver <font color="silver">银色</font>
++ teal <font color="teal">蓝色色</font>
++ white 白色
+
+
 ______________________
 
 [^1]: 我是脚本注释的内容

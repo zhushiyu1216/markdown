@@ -5,7 +5,7 @@
 
 市面上的 Markdown 编辑器实在太多了，我们筛选出部分口碑较好的产品。
 ## [Dilinger](https://dillinger.io)
-dillinger是一个在线下的markdown编辑工具，漂亮强大，支持md, html, pdf 文件导出，不过dilinger在国外，找开速度很慢。
+dillinger是一个在线的markdown编辑工具，漂亮强大，支持md, html, pdf 文件导出，不过dilinger在国外，找开速度很慢。
 
 ![Dilinger](images/dilinger.png "dilinger")
 
