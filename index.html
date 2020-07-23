@@ -16,19 +16,13 @@
       name: 'Markdown教程',
       repo: '',
       loadSidebar: true,
-      loadSidebar: 'SUMMARY.md',
-      search: 'auto', // 默认值
-      search : [
-        '/SUMMARY'
-      ],
-      // 完整配置参数
+      search: 'auto',
       search: {
-        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
-        paths: [], // or 'auto'
-        placeholder: '搜索',
-        noData: '找不到结果',
-        // 搜索标题的最大层级, 1 - 6
-        depth: 2,
+        maxAge: 86400000,
+        paths: '/',
+        placeholder: '搜索...',
+        noData: '未找到结果，换个搜索词试试？',
+        namespace: 'markdown',
       },
       disqus: 'shortname',
     }
@@ -39,9 +33,6 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
-
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
-
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
   <script>
