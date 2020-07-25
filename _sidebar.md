@@ -1,3 +1,5 @@
+# Summary
+
 * [前言](README.md)
 
 * [Markdown介绍](introduction/README.md)
@@ -13,11 +15,11 @@
     * [图片](common_syntax/image.md)
     * [链接](common_syntax/link.md)
     * [表格](common_syntax/table.md)
-    * [特殊文本](common_syntax/special_text.md)
+    * [特殊文本](common_syntax/special_symbol.md)
 * [高级用法](high_level_syntax/README.md)
     * [公式](high_level_syntax/formula.md)
     * [流程图](high_level_syntax/flowsheet.md)
     * [序列图](high_level_syntax/sequence_graph.md)
     * [HTML](high_level_syntax/html.md)
     * [视频音频](high_level_syntax/media.md)
-    * [发布HTML](high_level_syntax/publish.md)
+    * [发布到Github](high_level_syntax/publish.md)
