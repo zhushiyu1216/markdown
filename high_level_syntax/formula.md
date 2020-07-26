@@ -10,7 +10,7 @@ Markdown的数学公式是基于Latex的编码排版系统实现的，它可以�
 
 注意，Macdown默认状态下latex是没有打开的，所以我们书写的编码不会转化为公式，打开方法为：MacDown->偏好设置，按下图设置。
 
-![latex setting](images/macdown_latex.png)
+![latex setting](images/macdown_latex2.jpg)
 
 # 公式显示在行内与独行
 markdown的公式以两个`$`美元符号包裹。
@@ -29,7 +29,6 @@ markdown的公式以两个`$`美元符号包裹。
 + 汉字形式，符号：\mbox{}，使用后可以让汉字显示的更大一些，如：`$V_{\mbox{初始}}$`，显示为：$V_{\mbox{初始}}$，如果不加mbox：`$V_{初始}$`，则显示为：$V_{初始}$
 + 字体控制，符号：\displaystyle，可以让公式显示的更大一些，如：`$\displaystyle \frac{x+y}{y+z}$`，显示为：$\displaystyle \frac{x+y}{y+z}$，如果不加displaystyle：`$\frac{x+y}{y+z}$`，则显示为：$\frac{x+y}{y+z}$；
 + 下划线符号，符号：\underline，如：`$\underline{x+y}$`，显示为：$\underline{x+y}$
-+ 标签，符号\tag{数字}，如：`$\tag{11}$`，显示为：$\tag{11}$
 + 上大括号，符号：\overbrace{算式}，如：`$\overbrace{a+b+c+d}^{2.0}$`，显示为：$\overbrace{a+b+c+d}^{2.0}$
 + 下大括号，符号：\underbrace{算式}，如：`$a+\underbrace{b+c}_{1.0}+d$`，显示为：$a+\underbrace{b+c}_{1.0}+d$
 + 上位符号，符号：\stackrel{上位符号}{基位符号}，如：`$\vec{x}\stackrel{\mathrm{def}}{=}{x_1,\dots,x_n}$`，显示为：$\vec{x}\stackrel{\mathrm{def}}{=}{x_1,\dots,x_n}$
@@ -180,27 +179,27 @@ $$
 # 操作符查询简单手册
 
 ## 操作符
-![操作符](images/fomula_operator.png)
+![操作符](images/fomula_operator2.jpg)
 
 ## 关系符
-![关系符](images/fomula_relation_operator.png)
+![关系符](images/fomula_relation_operator2.jpg)
 
 只要将not放在符号前面或者在 \ 和单词之间插入一个 n ，就可以形成许多这些关系的否定形式，这里有一些例子，加上一些其他的否定，它也适用于许多其他的。
 
-![not 关系符](images/fomula_not_relation_operator.png)
+![not 关系符](images/fomula_not_relation_operator2.jpg)
 
 ## 希腊字母
 ### 小写
-![小写](images/fomula_greece_letter.png)
+![小写](images/fomula_greece_letter2.jpg)
 
 ### 大写
-![大写](images/fomula_greece_letter_capital.png)
+![大写](images/fomula_greece_letter_capital2.jpg)
 
 ## 箭头
-![箭头](images/fomula_arrow.png)
+![箭头](images/fomula_arrow2.jpg)
 
 ## 点
-![点](images/fomula_dot.png)
+![点](images/fomula_dot2.jpg)
 
 # Latex语法深入学习
 如果学的文章中对数学公式的使用非常多，可以对latex进行一下更深入的学习，推荐[《一份(不太)简短的 LATEX2ε 介绍》](attaches/lshort-zh-cn.pdf)这个文章，点击它可以查看。
