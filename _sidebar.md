@@ -20,6 +20,7 @@
     * [公式](high_level_syntax/formula.md)
     * [流程图](high_level_syntax/flowsheet.md)
     * [序列图](high_level_syntax/sequence_graph.md)
+    * [甘特图、饼图](high_level_syntax/other_mermaid.md)
     * [HTML](high_level_syntax/html.md)
     * [视频音频](high_level_syntax/media.md)
     * [发布到Github](high_level_syntax/publish.md)
