@@ -17,7 +17,7 @@
 
 简洁优雅，开源免费，开源爱好者的首选，在Mac的App Store里直接搜索就可以安装。
 
-![MacDown](images/macdown.png "MacDown")
+![MacDown](images/macdown.jpg "MacDown")
 
 ## [Mou](http://25.io/mou)
 支持平台：Mac
@@ -38,7 +38,7 @@ Typora看到的不是markdown的源码，看到的是最终的显示效果，对
 ## [Dilinger](https://dillinger.io)
 dillinger是一个在线的markdown编辑工具，漂亮强大，支持md, html, pdf 文件导出，不过dilinger在国外，找开速度很慢。
 
-![Dilinger](images/dilinger.png "dilinger")
+![Dilinger](images/dilinger.jpg "dilinger")
 
 
 ## [Cmd Markdown](https://www.zybuluo.com/cmd)
@@ -46,7 +46,7 @@ dillinger是一个在线的markdown编辑工具，漂亮强大，支持md, html,
 
 CmdMarkdown作业部落出品，全平台并支持Web端，它是国内的应用，Web版打开速度比Dilinger快很多。CmdMarkdown是作业部落的客户端，可以直接云存储你的markdown文档，如果你的目的是在线写一些笔记，它是你的首选，不过CmdMarkdown需要注册作业部落的帐号才可以使用。
 
-![Cmd Markdown](images/cmd_markdown.png "Cmd Markdown")
+![Cmd Markdown](images/cmd_markdown.jpg "Cmd Markdown")
 
 ## 其它
 下面的这些都是支持云存储功能的收费软件，除在PC上使用外，也提供了对应的手机版应用，会费的，功能也自然更加强大，有财力的可以选择它们。
@@ -66,6 +66,6 @@ Atom支持windows、苹果、linux等多种操作系统。Atom是由著名的git
 
 [SublimeText](http://www.sublimetext.com/)界面简约大方，定位专业，功能强大，并具有良好的扩展功能。SublimeText是收费软件，支持windows、苹果、linux三大操作系统。支持的编程语言有十几种，并可通过第三方插件无限扩充。SublimeText默认不能实时预览，但通过 Markdown Preview 的插件来实现该功能。SublimeText屏幕右边有一个文档缩略图，可以看到文档全貌。
 
-![Sublime Text](images/sublime_text.png)
+![Sublime Text](images/sublime_text.jpg)
 
 如果你是一个程序员，可以使用这两款软件，不过说实话，效果并没有专门的MarkDown编辑软件好用。
