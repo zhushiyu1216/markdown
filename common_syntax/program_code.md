@@ -6,13 +6,13 @@
 
 如：
 
-        $(document).ready(function () {
+        document.ready(function () {
             alert('markdown');
         });
         
 显示为：
 
-    $(document).ready(function () {
+    document.ready(function () {
         alert('markdown');
     });
     
