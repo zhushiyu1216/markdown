@@ -39,7 +39,11 @@
     ```
 显示如下：
 
-![指定语言代码块](images/code_area.png)
+``` javascript
+$(document).ready(function () {
+    alert('markdown');
+});
+```
 
 遗憾的是macdown不支持指定语言，它显示跟普通代码块儿一样，如果想看效果，可能需要把你的mqrkdown文档传到一些平台后再看了。
 
