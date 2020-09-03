@@ -16,7 +16,7 @@
 ![](https://markdown.codebook.cf/common_syntax/images/markdown.jpg)
 
 ## 图片alt替换文本
-学过HTML的同学应该都知道图片标签“img”有一个“alt”属性，来标记当指定的url图片不存在时，显示这alt属性的值。alt实际上就是alternative（替换）这个英文单词的简写。  
+学过HTML的同学应该都知道图片标签“img”有一个“alt”属性，来标记当指定的url图片不能正常显示时，显示这alt属性的值。alt实际上就是alternative（替换）这个英文单词的简写。  
 Markdown图片语法的中间那个中括号就是为了设置alt属性的，我们来测试一下。
 
 书写方法：  
