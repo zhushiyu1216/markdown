@@ -35,7 +35,7 @@ alt的值显示的情境有以下四种：
 注意，Macdown不显示alt，不过强烈建议还要是把alt写上，这样在比较恶劣的环境下，用户依然可以看到你要表达的内容。
 
 ## 图片title
-同样，学习过HTML的同学也应该知道，HTML的img标签中还有一个title属性，它的作用是当用户把鼠标放在图片上静止一会儿，图片上会浮出一个文本框显示title属性的内容。Markdown也可以实现这个能力，将title放在图片标记的小括号内，图片地址后，以空间分隔，以英文双引号引起来。
+同样，学习过HTML的同学也应该知道，HTML的img标签中还有一个title属性，它的作用是当用户把鼠标放在图片上静止一会儿，图片上会浮出一个文本框显示title属性的内容。Markdown也可以实现这个能力，将title放在图片标记的小括号内，图片地址后，以空格分隔，以英文双引号引起来。
 
 书写方法：  
 `![Markdown](https://markdown.codebook.cf/common_syntax/images/markdown.jpg "I love markdown")`
