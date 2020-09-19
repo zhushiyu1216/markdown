@@ -76,7 +76,7 @@
 
 比如我们想要嵌入一个Bilibili网站上的视频，先打开对就的页面，我这里打开的是<https://www.bilibili.com/video/BV1Wt4y1D7cS>，将鼠标移到视频下方的“分享”按钮上，分享按钮位于下图“1”的位置，各种分享方式会悬浮出来，此时点击“嵌入代码”后面的“复制”按钮，如下图“2”所示：
 
-![Bilibili 分享](images/bilibili_share.png)
+![Bilibili 分享](images/bilibili_share.jpg)
 
 复制后得到以下代码：
 
