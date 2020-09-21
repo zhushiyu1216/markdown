@@ -32,11 +32,11 @@
 
 | 属性 | 值 | 描述 |
 | --- | --- | --- |
-| autoplay | autoplay | 如果出现该属性，则视频在加载完成后马上播放 |
+| autoplay | true\|false | 如果出现该属性，则视频在加载完成后马上播放 |
 | controls | controls | 如果出现该属性，则向用户显示控件，比如播放按钮 |
 | loop | true\|false | 如果出现该属性，则当媒介文件完成播放后再次从头开始播放 |
 | muted | true\|false | 规定视频的音频输出应该被静音 |
-| poster | URL | 规定视频下载时显示的图像，或者在用户点击播放按钮前显示的图像 |
+| poster | 字符串 | 规定视频下载时显示的图像，或者在用户点击播放按钮前显示的图像 |
 | preload | true\|false | 如果出现该属性，则视频在页面加载时进行加载，并预备播放，如果使用 "autoplay"，则忽略该属性 |
 | src | 字符串 | 要播放的视频的 URL |
 | width | pixels | 设置视频播放器的宽度 |
@@ -63,7 +63,7 @@
 
 | 属性 | 值 | 描述 |
 | --- | --- | --- |
-| autoplay | autoplay | 如果出现该属性，则音频在就绪后马上播放 |
+| autoplay | true\|false | 如果出现该属性，则音频在就绪后马上播放 |
 | controls | controls | 如果出现该属性，则向用户显示控件，比如播放按钮 |
 | loop | true\|false | 如果出现该属性，则每当音频结束时重新开始播放 |
 | muted | true\|false | 规定视频输出应该被静音 |
