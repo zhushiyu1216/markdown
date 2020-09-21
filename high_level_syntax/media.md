@@ -2,7 +2,7 @@
 
 随着人们迈入移动互联网时代，音视频的素材也越来越多，网民的阅读习惯也慢慢在发生变化，简单图文已经不能满足广大读者的阅读诉求。在前面讲Markdown的历史时我们知道，它出现在2004年，当时的网络环境不足以大规模支持大家在线看视频，所以Markdown自有语法并没有对音视频做支持。
 
-为什么Markdown现在仍然没有与时俱进支持多媒体呢？我猜有三个原因，一是Markdown相对简单，没有得到有开源组织对其进行专门支持和维护，也没有统一的编译工具；另一个原因是Markdown对HTML是支持的，可以用HTML实现多媒体的展现；还有一个原因，我觉得移动互联网的时间还不够长，随着时间的推移，Markdown最终应该会支持多媒体的。
+为什么Markdown现在仍然没有与时俱进支持多媒体呢？我猜有三个原因，一是Markdown相对简单，没有得到有开源组织对其进行专门支持和维护，也没有统一的编辑工具；另一个原因是Markdown对HTML是支持的，可以用HTML实现多媒体的展现；还有一个原因，我觉得移动互联网的时间还不够长，随着时间的推移，Markdown最终应该会支持多媒体的。
 
 本节我们分别介绍有地址音视频和网络音视频在Markdown中的展现方法。
 
@@ -16,7 +16,7 @@
 <video 
   src="https://markdown.codebook.cf/high_level_syntax/videos/markdown_chapter_special_text.mp4"      
   controls="controls" width="640" height="320"
-  poster = "images/video_cover.jpg">
+  poster = "https://markdown.codebook.cf/high_level_syntax/images/video_cover.jpg">
   这个浏览器不支持视频。
 </video>
 ```
@@ -24,7 +24,7 @@
 <video 
   src="https://markdown.codebook.cf/high_level_syntax/videos/markdown_chapter_special_text.mp4"      
   controls="controls" width="640" height="320"
-  poster = "images/video_cover.jpg">
+  poster = "https://markdown.codebook.cf/high_level_syntax/images/video_cover.jpg">
   这个浏览器不支持视频。
 </video>
 
@@ -34,18 +34,18 @@
 | --- | --- | --- |
 | autoplay | autoplay | 如果出现该属性，则视频在加载完成后马上播放 |
 | controls | controls | 如果出现该属性，则向用户显示控件，比如播放按钮 |
-| loop | loop | 如果出现该属性，则当媒介文件完成播放后再次从头开始播放 |
-| muted | muted | 规定视频的音频输出应该被静音 |
+| loop | true\|false | 如果出现该属性，则当媒介文件完成播放后再次从头开始播放 |
+| muted | true\|false | 规定视频的音频输出应该被静音 |
 | poster | URL | 规定视频下载时显示的图像，或者在用户点击播放按钮前显示的图像 |
-| preload | preload | 如果出现该属性，则视频在页面加载时进行加载，并预备播放，如果使用 "autoplay"，则忽略该属性 |
-| src | url | 要播放的视频的 URL |
+| preload | true\|false | 如果出现该属性，则视频在页面加载时进行加载，并预备播放，如果使用 "autoplay"，则忽略该属性 |
+| src | 字符串 | 要播放的视频的 URL |
 | width | pixels | 设置视频播放器的宽度 |
 | height | pixels | 设置视频播放器的高度 |
 
 
 ## 有地址音频
 
-什么是有地址在上一部分已经解释了，网络上最常见的音频格式MP3、AAC、WMA、Ogg 、WAV，不过最常用的还是Mp3。
+关于什么是有地址，在上一部分已经解释了，网络上最常见的音频格式MP3、AAC、WMA、Ogg 、WAV，不过最常用的还是Mp3。
 
 我们看一下音频的写法：
 
@@ -65,10 +65,10 @@
 | --- | --- | --- |
 | autoplay | autoplay | 如果出现该属性，则音频在就绪后马上播放 |
 | controls | controls | 如果出现该属性，则向用户显示控件，比如播放按钮 |
-| loop | loop | 如果出现该属性，则每当音频结束时重新开始播放 |
-| muted | muted | 规定视频输出应该被静音 |
-| preload | preload | 如果出现该属性，则音频在页面加载时进行加载，并预备播放，如果使用 "autoplay"，则忽略该属性 |
-| src | url | 要播放的音频的 URL |
+| loop | true\|false | 如果出现该属性，则每当音频结束时重新开始播放 |
+| muted | true\|false | 规定视频输出应该被静音 |
+| preload | true\|false | 如果出现该属性，则音频在页面加载时进行加载，并预备播放，如果使用 "autoplay"，则忽略该属性 |
+| src | 字符串 | 要播放的音频的 URL |
 
 ## 无地址视频
 
