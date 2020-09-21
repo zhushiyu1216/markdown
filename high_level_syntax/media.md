@@ -14,7 +14,7 @@
 
 ```
 <video 
-  src="videos/markdown_chapter_special_text.mp4"      
+  src="https://markdown.codebook.cf/high_level_syntax/videos/markdown_chapter_special_text.mp4"      
   controls="controls" width="640" height="320"
   poster = "images/video_cover.jpg">
   这个浏览器不支持视频。
@@ -22,7 +22,7 @@
 ```
 
 <video 
-  src="videos/markdown_chapter_special_text.mp4"      
+  src="https://markdown.codebook.cf/high_level_syntax/videos/markdown_chapter_special_text.mp4"      
   controls="controls" width="640" height="320"
   poster = "images/video_cover.jpg">
   这个浏览器不支持视频。
@@ -50,12 +50,12 @@
 我们看一下音频的写法：
 
 ```
-<audio src="videos/music.mp3" controls="controls">
+<audio src="https://markdown.codebook.cf/high_level_syntax/videos/music.mp3" controls="controls">
   你的浏览器不支持音频播放！
 </audio>
 ```
 
-<audio src="videos/music.mp3" controls="controls">
+<audio src="https://markdown.codebook.cf/high_level_syntax/videos/music.mp3" controls="controls">
   你的浏览器不支持音频播放！
 </audio>
 
