@@ -67,7 +67,7 @@ markdown的公式以两个`$`美元符号包裹。
 + 平均数运算，符号：\overline{算式}，如：`$\overline{xyz}$`，显示为：$\overline{xyz}$
 + 开二次方运算，符号：\sqrt，如：`$\sqrt x$`，显示为：$\sqrt x$
 + 开方运算，符号：\sqrt[开方数]{被开方数}，如：`$\sqrt[3]{x+y}$`，显示为：$\sqrt[3]{x+y}$
-+ 对数运算，符号：\log，如：`$\log(x)$`，显示为：$\sqrt[3]{x+y}$
++ 对数运算，符号：\log，如：`$\log(x)$`，显示为：$\log(x)$
 + 极限运算，符号：\lim，如：`$\lim^{x \to \infty}_{y \to 0}{\frac{x}{y}}$`，显示为：$\sqrt[3]{x+y}$
 + 极限运算，符号：\displaystyle \lim，如：`$\displaystyle \lim^{x \to \infty}_{y \to 0}{\frac{x}{y}}$`，显示为：$\displaystyle \lim^{x \to \infty}_{y \to 0}{\frac{x}{y}}$
 + 求和运算，符号：\sum，如：`$\sum^{x \to \infty}_{y \to 0}{\frac{x}{y}}$`，显示为：$\displaystyle \lim^{x \to \infty}_{y \to 0}{\frac{x}{y}}$
@@ -202,4 +202,4 @@ $$
 ![点](images/fomula_dot2.jpg)
 
 # Latex语法深入学习
-如果学的文章中对数学公式的使用非常多，可以对latex进行一下更深入的学习，推荐[《一份(不太)简短的 LATEX2ε 介绍》](attaches/lshort-zh-cn.pdf)这个文章，点击它可以查看。
+如果学的文章中对数学公式的使用非常多，可以对latex进行一下更深入的学习，推荐[《一份(不太)简短的 LATEX2ε 介绍》](https://markdown.codebook.cf/high_level_syntax/attaches/lshort-zh-cn.pdf)这个文章，点击它可以查看。
