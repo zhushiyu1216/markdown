@@ -7,14 +7,14 @@
 
 ![macdown export](images/export_macdown.jpg)
 
-VSCode的MPE插件也是非常好用的Markdown编辑工具，程序员的挚爱，也支持导出功能，而且支持导出的格式特别丰富。使用VSCode打开Markdown文件后，使用快捷键“cmd + shife + v”打开预览窗口，然后在预览窗口内右击，能看到各种导出的格式，如下图：
+VSCode的MPE插件也是非常好用的Markdown编辑工具，程序员的挚爱，也支持导出功能，而且支持导出的格式特别丰富。使用VSCode打开Markdown文件后，使用快捷键“cmd + shift + v”打开预览窗口，然后在预览窗口内右击，能看到各种导出的格式，如下图：
 
 ![vscode export](images/export_vscode.jpg)
 
 ## 如何发布成HTML
 前面我们说过，Markdown的文档默认是不能在浏览器正常展示的，浏览器只能显示HTML格式的文档，所以Markdown要想在浏览器正常展示，最终都要转化成HTML，或者使用Javascript动态加载。
 
-这两种转换方式也都分别有自己的主流工具，如直接转换成HTML文件的有之前最知名的gitbook，不过gitbook目前主做在线文档服务，本地文档转换工具已经不再维护；另一个比较有名的工具是hexo，它是专门搭建博客系统的工具，使用它转换HTML需要一定的前端开发技能。另一种Javascript动态加载方式，比较出名的是docsify，它有一套自己的Js文件，在打开始动态解析markdown文件，将各检查解析为HTML对应的标签，并添加在页面中。
+这两种转换方式也都分别有自己的主流工具，如直接转换成HTML文件的有之前最知名的gitbook，不过gitbook目前主做在线文档服务，本地文档转换工具已经不再维护；另一个比较有名的工具是hexo，它是专门搭建博客系统的工具，使用它转换HTML需要一定的前端开发技能。另一种Javascript动态加载方式，比较出名的是docsify，它有一套自己的Js文件，在打开后动态解析markdown文件，将各markdown标签解析为HTML对应的标签，并添加在页面中。
 
 我们就今天主要讲解docsify的使用。
 
@@ -34,8 +34,8 @@ zhushiyu01:resource zhushiyu01$ npm -v
 
 有版本号显示即可，不用关心版本号的具体值。
 
-+ 安装docsify
-docsify是一个node的项目，通过npm来安装，以命令行终端内执行`sudo npm i docsify-cli -g`，以下是安装命令及显示：
++ 第二步，安装docsify  
+docsify是一个node的项目，通过npm来安装，将以下命令在终端内执行`sudo npm i docsify-cli -g`，以下是安装命令及显示：
 
 ```
 zhushiyu01:~ zhushiyu01$ sudo npm i docsify-cli -g
@@ -46,7 +46,7 @@ updated 1 package in 1.491s
 
 注意，上边是在Mac上执行，所以加了sudo，如果在Windows上执行，只用`npm i docsify-cli -g`即可。
 
-+ 初始化docsify项目
++ 第三步，初始化docsify项目  
 使用docsify命令，可以在我们的markdown文档目录下初始化一个docsify环境，执行命令也比较简单`docsify init ./`，具体过程如下：
 
 ```
@@ -58,7 +58,7 @@ Initialization succeeded! Please run docsify serve ./
 
 先cd到你的文档目录下，再执行init命令，执行成功后，会上目录下生成一个index.html文件。注意docsify默认的首页文档名称为README.md，所以我们必须有这个文件，其它文件可以在README.md中建立链接跳转过去。
 
-+ 启动docsify服务
++ 第四步，启动docsify服务  
 要在浏览器里查看我们写的文档，只用启动docsify服务即可，启动命令为`docsify serve ./`，命令如下：
 
 ```
