@@ -56,7 +56,7 @@ zhushiyu01:markdown zhushiyu01$ docsify init ./
 Initialization succeeded! Please run docsify serve ./
 ```
 
-先cd到你的文档目录下，再执行init命令，执行成功后，会上目录下生成一个index.html文件。注意docsify默认的首页文档名称为README.md，所以我们必须有这个文件，其它文件可以在README.md中建立链接跳转过去。
+先cd到你的文档目录下，再执行init命令，执行成功后，会在目录下生成一个index.html文件。注意docsify默认的首页文档名称为README.md，所以我们必须有这个文件，其它文件可以在README.md中建立链接跳转过去。
 
 + 第四步，启动docsify服务  
 要在浏览器里查看我们写的文档，只用启动docsify服务即可，启动命令为`docsify serve ./`，命令如下：
@@ -68,7 +68,7 @@ Serving /Users/zhushiyu01/data/temp/markdown now.
 Listening at http://localhost:59587
 ```
 
-注意，`./`是文档路径，如果你的命令行不是当前文件路径，需要先cd到markdown文档目录。执行完成后，docsify给出了监听地址，如上边给出的是`http://localhost:59587`，是浏览器打开这个地址即可看到我们的markdown文件内容了。
+注意，`./`是文档路径，如果你的命令行不是当前文件路径，需要先cd到markdown文档目录。执行完成后，docsify给出了监听地址，如上边给出的是`http://localhost:59587`，在浏览器打开这个地址即可看到我们的markdown文件内容了。
 
 docsify在index.html中有很多功能强大的配置，同时它也提供了很多样式的插件，具体用法可以在docsify的官方文档查看：<https://docsify.js.org/#/?id=docsify>，我给出这个教程的index.html的配置，供大家参考一下。
 
@@ -230,3 +230,7 @@ git push origin master
 ![github pages](images/github_page_setting.jpg)
 
 至此，我们一个简单的个人小网站就建立成功了，不用买服务器，随时可以转给别人看，是不是很方便，只要我们学会了Markdown，以后编写专业的文档就不再是什么难事啦。
+
+
+### 视频教程
+<iframe src="//player.bilibili.com/player.html?aid=542283584&bvid=BV1ei4y1E78N&cid=242199499&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="600"> </iframe>

@@ -19,3 +19,10 @@ Markdown具有一系列衍生版本，用于扩展Markdown的功能（如表格�
 ![亚伦·斯沃茨](images/markdown_programer.jpg)
 
 说回正题，由于在阅读和预览上的便利性，Markdown 逐渐流行，受到码农和写作者的欢迎，针对 Markdown 开发的编辑器越来越多，支持 Markdown 也成了 GitHub、Trello、Slack、简书、印象笔记等平台的标配。不过总的来说，Markdown 依然属于相对小众的工具，但如果你经常需要排版、码字，Markdown 没准能帮你打开新世界的大门。
+
+
+### 视频教程
+<iframe src="//player.bilibili.com/player.html?aid=541796898&bvid=BV1ri4y1g7aX&cid=225928898&page=1" 
+scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
+width="800" height="600" 
+> </iframe>

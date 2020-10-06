@@ -68,3 +68,7 @@ HTML标签的各属性要用双引号引起来。
 
 ## 图片链接
 下一节我们会讲链接的用法，图片链接放在超链接一节中讲。 点击查看[图片链接用法](link.md)。
+
+
+### 视频教程
+<iframe src="//player.bilibili.com/player.html?aid=711994891&bvid=BV1QD4y1d7yC&cid=232026339&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="600"> </iframe>

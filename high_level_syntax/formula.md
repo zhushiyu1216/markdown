@@ -203,3 +203,6 @@ $$
 
 # Latex语法深入学习
 如果学的文章中对数学公式的使用非常多，可以对latex进行一下更深入的学习，推荐[《一份(不太)简短的 LATEX2ε 介绍》](https://markdown.codebook.cf/high_level_syntax/attaches/lshort-zh-cn.pdf)这个文章，点击它可以查看。
+
+### 视频教程
+<iframe src="//player.bilibili.com/player.html?aid=627129710&bvid=BV1wt4y1q7xJ&cid=238759489&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="600"> </iframe>

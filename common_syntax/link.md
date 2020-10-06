@@ -43,6 +43,10 @@ Markdown添加普通超链比较简单，将要设置超链接的部分用英文
 
 注意，由于自动链接语法相对简单，所以不能为链接添加title。
 
+
+### 视频教程
+<iframe src="//player.bilibili.com/player.html?aid=287067101&bvid=BV19f4y1S7qh&cid=235816428&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="600"> </iframe>
+
 ## 锚点
 写过HTML网页的人对锚点这个概念都不会陌生，锚点就是在网页内跳转，比如，当一个页面内容很多时，用户看一部分内容，其它内容已经无法在同一屏幕内展示了，这时，如果你想链接到文章别的部分，就可以使用锚点，用户点击后屏幕直接滑动到你设置锚点的位置。
 
@@ -93,3 +97,7 @@ HTML使用a标签来定义链接，标签的href属性定义链接地址，两�
 
 
 [markdown]: http://markdown.codebook.cf
+
+
+### 视频教程
+<iframe src="//player.bilibili.com/player.html?aid=287067101&bvid=BV19f4y1S7qh&cid=235816428&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="600"> </iframe>

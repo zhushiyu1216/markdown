@@ -84,3 +84,5 @@ Markdown支持哪些语言，以及这此语言的名就都应该怎么写呢？
 | R | r或s或splus | &nbsp; |
 
 
+### 视频教程
+<iframe src="//player.bilibili.com/player.html?aid=499405385&bvid=BV1rK411N78Z&cid=231126240&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="600"> </iframe>

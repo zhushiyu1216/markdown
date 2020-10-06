@@ -87,6 +87,9 @@ C -->|a=2| E[结果2]
 
 两个节点之间关系代码要放在独立行内，新的关系再独立起一行。
 
+### 视频教程
+<iframe src="//player.bilibili.com/player.html?aid=712130677&bvid=BV1xD4y1o7us&cid=239771022&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="600"> </iframe>
+
 ## Mermaid中流程图语法详细文档
 
 下面这个文档是Mermaid的官方文档，目前只有英文版的，不过英文都比较简单。

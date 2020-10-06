@@ -101,3 +101,6 @@ width="800" height="600"
 ## 无地址音频
 
 无地址音频目前不太容易实现了，目前各音乐网站越来越少做单音频播放器了，像QQ音乐、网易音乐都没有这样的播放器分享页面了。如果要添加音频，还是需要拿到音频的准确地址，使用有地址的方式实现。
+
+### 视频教程
+<iframe src="//player.bilibili.com/player.html?aid=329696143&bvid=BV1jA411J79q&cid=237831916&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="600"> </iframe>

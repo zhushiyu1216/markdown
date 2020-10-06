@@ -69,3 +69,9 @@ Atom支持windows、苹果、linux等多种操作系统。Atom是由著名的git
 ![Sublime Text](images/sublime_text.jpg)
 
 如果你是一个程序员，可以使用这两款软件，不过说实话，效果并没有专门的MarkDown编辑软件好用。
+
+### 视频教程
+<iframe src="//player.bilibili.com/player.html?aid=541796898&bvid=BV1ri4y1g7aX&cid=225928898&page=1" 
+scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
+width="800" height="600" 
+> </iframe>
