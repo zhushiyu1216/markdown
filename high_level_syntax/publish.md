@@ -234,3 +234,5 @@ git push origin master
 
 ### 视频教程
 <iframe src="//player.bilibili.com/player.html?aid=542283584&bvid=BV1ei4y1E78N&cid=242199499&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="600"> </iframe>
+
+[打赏](../include/donate.md ':include')

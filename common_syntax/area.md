@@ -99,3 +99,5 @@
 
 ### 视频教程
 <iframe src="//player.bilibili.com/player.html?aid=711936167&bvid=BV1nD4y1m7aK&cid=229311017&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="600"> </iframe>
+
+[打赏](../include/donate.md ':include')

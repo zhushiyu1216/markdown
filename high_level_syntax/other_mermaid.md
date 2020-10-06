@@ -150,3 +150,5 @@ Mermaid还支持其它另外几种类型的图形，可以点击查看具体文�
 
 ### 视频教程
 <iframe src="//player.bilibili.com/player.html?aid=627369223&bvid=BV1xt4y1v77h&cid=240445459&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="600"> </iframe>
+
+[打赏](../include/donate.md ':include')

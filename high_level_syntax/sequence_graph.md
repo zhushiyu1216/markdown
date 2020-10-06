@@ -103,6 +103,8 @@ sequenceDiagram
 ### 视频教程
 <iframe src="//player.bilibili.com/player.html?aid=584792032&bvid=BV1Pz4y1f7FA&cid=240133720&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="600"> </iframe>
 
+[打赏](../include/donate.md ':include')
+
 ## 官方文档
 
 时序图还有很多非常精彩的用法，如果要深入学习，可以研究一下Mermaid关于时序图的官方文档，此文档如下，尽管是英文版的，但都比较简单，一般都可以轻松看懂的。

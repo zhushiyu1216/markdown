@@ -90,3 +90,5 @@ Markdown单元格的内容不支持换行，要想实现换行，需要HTML换�
 
 ### 视频教程
 <iframe src="//player.bilibili.com/player.html?aid=372103979&bvid=BV1EZ4y1N7yw&cid=236443616&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="600"> </iframe>
+
+[打赏](../include/donate.md ':include')

@@ -101,3 +101,5 @@ HTML使用a标签来定义链接，标签的href属性定义链接地址，两�
 
 ### 视频教程
 <iframe src="//player.bilibili.com/player.html?aid=287067101&bvid=BV19f4y1S7qh&cid=235816428&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="600"> </iframe>
+
+[打赏](../include/donate.md ':include')

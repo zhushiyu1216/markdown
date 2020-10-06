@@ -206,3 +206,5 @@ $$
 
 ### 视频教程
 <iframe src="//player.bilibili.com/player.html?aid=627129710&bvid=BV1wt4y1q7xJ&cid=238759489&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="600"> </iframe>
+
+[打赏](../include/donate.md ':include')

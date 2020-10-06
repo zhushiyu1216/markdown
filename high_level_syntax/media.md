@@ -104,3 +104,5 @@ width="800" height="600"
 
 ### 视频教程
 <iframe src="//player.bilibili.com/player.html?aid=329696143&bvid=BV1jA411J79q&cid=237831916&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="600"> </iframe>
+
+[打赏](../include/donate.md ':include')
